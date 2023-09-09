@@ -1,0 +1,21 @@
+
+
+  
+.input{
+  margin-top: 20px;
+  height:40px;
+  margin-left:150px;
+}
+  .form_button {
+    margin-top: 35px;
+    width: 100%;
+    color: #fff;
+    font-size: 1rem;
+    border: none;
+    padding: 5px 0;
+    cursor: pointer;
+    border-radius: 6px;
+    pointer-events: none;
+    transition: all 0.2s ease;
+  }
+  

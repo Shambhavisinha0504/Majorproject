@@ -1,0 +1,129 @@
+        /*return view('admin.saveScheme');*/
+        //dd($request->all());
+        /*$request->validate(
+            [
+               /* 'name'=>'required',
+                'email'=>'required | email',
+                'service'=>'required',
+                'service_date'=>'required',
+                'special_request'=>'required',*/
+                //'pancard_validate'=>'required | regex:/^([a-zA-Z]){5}([0-9]){4}([a-zA-Z]){1}$/'
+                //pancard format:-BGFPM 2519 H
+            /*]
+        );*/
+        $request->validate(
+            [
+                'photo' =>'required|image|mimes:jpeg,jpg,png,gif|max:1024',    
+            ]
+        );
+        $photoName = time().'.'.$request->photo->extension();
+        $request->photo->move(public_path('uploads'),$photoName);
+        $data = $request->all();
+        $createuser = $this->create($data,$photoName);
+        return redirect('schemeList')->withSuccess('Scheme added successfully.');
+
+        /*$schemeFormSubmit=new SubmitSchemeForm();
+        $schemeFormSubmit->username=$request->username;
+        $schemeFormSubmit->password=$request->password;
+        $schemeFormSubmit->confirmPassword=$request->confirmPassword;
+        $schemeFormSubmit->first_name=$request->first_name;
+        $schemeFormSubmit->last_name=$request->last_name;
+        $schemeFormSubmit->father_name=$request->father_name;
+        $schemeFormSubmit->mother_name=$request->mother_name;
+        $schemeFormSubmit->phone=$request->phone;
+        $schemeFormSubmit->email=$request->email;
+        $schemeFormSubmit->dob=$request->dob;
+        $schemeFormSubmit->gender=$request->gender;
+        $schemeFormSubmit->annual_income=$request->annual_income;
+        $schemeFormSubmit->street=$request->street;
+        $schemeFormSubmit->city=$request->city;
+        $schemeFormSubmit->dist=$request->dist;
+        $schemeFormSubmit->state=$request->state;
+        $schemeFormSubmit->countary=$request->countary;
+        $schemeFormSubmit->zip=$request->zip;
+        $schemeFormSubmit->adhar_number=$request->adhar_number;
+        $schemeFormSubmit->category=$request->category; 
+        $schemeFormSubmit->account_number=$request->account_number;
+        $schemeFormSubmit->caccount_number=$request->caccount_number;
+        $schemeFormSubmit->ifsc=$request->ifsc;
+        $schemeFormSubmit->account_holder_name=$request->account_holder_name;
+        $schemeFormSubmit->nick_name=$request->nick_name; 
+        $schemeFormSubmit->scheme_type=$request->scheme_type;
+        $schemeFormSubmit->institution=$request->institution;
+        $schemeFormSubmit->district=$request->district;
+        $schemeFormSubmit->tahsil=$request->tahsil;
+        $schemeFormSubmit->mohalla=$request->mohalla;
+        $schemeFormSubmit->ward_number=$request->ward_number;
+        $schemeFormSubmit->plot_number=$request->plot_number; 
+        $schemeFormSubmit->plot_facing=$request->plot_facing;
+        $schemeFormSubmit->plot_area=$request->plot_area;
+        $schemeFormSubmit->khatiyan_number=$request->khatiyan_number;
+        $schemeFormSubmit->latitude=$request->latitude;
+        $schemeFormSubmit->longitude=$request->longitude;
+        $schemeFormSubmit->area_detail=$request->area_detail;
+        $schemeFormSubmit->aadhar_card=$request->aadhar_card;
+        $schemeFormSubmit->residential=$request->residential;  
+        $schemeFormSubmit->cast=$request->cast;
+        $schemeFormSubmit->income=$request->income;
+        $schemeFormSubmit->voter_id=$request->voter_id;
+        $schemeFormSubmit->vanshavali=$request->vanshavali;
+        $schemeFormSubmit->khatiyan=$request->khatiyan;
+        $schemeFormSubmit->birth_certificate=$request->birth_certificate;
+        $schemeFormSubmit->photo=$request->photo;
+       
+        $schemeFormSubmit->save();
+        return redirect('schemeList')->withSuccess('Scheme added successfully.');*/
+        
+    }
+
+    public function create(array $data, string $photoName)
+    {
+        return SubmitSchemeForm::create([
+        'username' => $data['username'],
+        'password' => $data['password'],
+        'confirmPassword' => $data['confirmPassword'],
+        'first_name' => $data['first_name'],
+        'last_name' => $data['last_name'],
+        'father_name' => $data['father_name'],
+        'mother_name' => $data['mother_name'],
+        'phone' => $data['phone'],
+        'email' => $data['email'],
+        'dob' => $data['dob'],
+        'gender' => $data['gender'],
+        'annual_income' => $data['annual_income'],
+        'street' => $data['street'],
+        'city' => $data['city'],
+        'dist' => $data['dist'],
+        'state' => $data['state'],
+        'countary' => $data['countary'],
+        'zip' => $data['zip'],
+        'adhar_number' => $data['adhar_number'],
+        'category' => $data['category'], 
+        'account_number' => $data['account_number'],
+        'caccount_number' => $data['caccount_number'],
+        'ifsc' => $data['ifsc'],
+        'account_holder_name' => $data['account_holder_name'],
+        'nick_name' => $data['nick_name'], 
+        'scheme_type' => $data['scheme_type'],
+        'institution' => $data['institution'],
+        'district' => $data['district'],
+        'tahsil' => $data['tahsil'],
+        'mohalla' => $data['mohalla'],
+        'ward_number' => $data['ward_number'],
+        'plot_number' => $data['plot_number'], 
+        'plot_facing' => $data['plot_facing'],
+        'plot_area' => $data['plot_area'],
+        'khatiyan_number' => $data['khatiyan_number'],
+        'latitude' => $data['latitude'],
+        'longitude' => $data['longitude'],
+        'area_detail' => $data['area_detail'],
+        'aadhar_card' => $data['aadhar_card'],
+        'residential' => $data['residential'],  
+        'cast' => $data['cast'],
+        'income' => $data['income'],
+        'voter_id' => $data['voter_id'],
+        'vanshavali' => $data['vanshavali'],
+        'khatiyan' => $data['khatiyan'],
+        'birth_certificate' => $data['birth_certificate'],
+        'photo' => $photoName,
+        ]);
