@@ -23,7 +23,7 @@
 ![Screenshot (87)](https://github.com/Shambhavisinha0504/Majorproject/assets/127407353/83d44b76-68c7-40a8-a0d3-787115a63188)
 ![Screenshot (88)](https://github.com/Shambhavisinha0504/Majorproject/assets/127407353/dc1f1a14-6c6a-4ef2-8f07-856cdfdfaeed)
 ![Screenshot (89)](https://github.com/Shambhavisinha0504/Majorproject/assets/127407353/5e2b9e44-f543-44ff-ba7c-766cbcd013d6)
-![Screenshot (48)](https://github.com/Shambhavisinha0504/Majorproject/assets/127407353/cad6bb2f-28f2-49d1-899b-2a8fa15c0de7)
+
 
 
 
