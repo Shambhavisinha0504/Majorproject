@@ -2,8 +2,9 @@
 
 
 #Tech Stack
-  Front-End: HTML, CSS, Bootstrap,JavaScript
-Back-End: Laravel
+<ol>
+ <li> Front-End: HTML, CSS, Bootstrap,JavaScript</li>
+<li>Back-End: Laravel</li>
 <li>IDE: Visual Studio Code</li>
   </ol>
 
