@@ -1,5 +1,7 @@
 # Majorproject
 
+This project basically work to provide various types of services to the farmers. They can Search for schemes beneficial to them, they can buy farming Products, check weather and news related to farmers and farming and also book a experts as per their choice and situation.This is basically used to ease the work of farmers by providing these services in one tap.
+
 
 <b>#Tech Stack</b>
 <hr>
