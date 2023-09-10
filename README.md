@@ -10,7 +10,7 @@
   </ol>
 
 
-<b>#How to Run this Project?</b>
+<b>#How to Run this Project?</b><hr>
 <ul>
   <li>Download the master branch Code</li>
   <li>Store it in a folder</li>
