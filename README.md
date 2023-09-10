@@ -9,7 +9,7 @@
   </ol>
 
 
-#How to Run this Project?
+<b>#How to Run this Project?</b>
 <ul>
   <li>Download the master branch Code</li>
   <li>Store it in a folder</li>
@@ -21,7 +21,7 @@
   </ul>
 
   
-#Some Screenshots
+<b>#Some Screenshots</b>
 
 
 
