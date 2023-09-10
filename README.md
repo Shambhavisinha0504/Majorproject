@@ -1,6 +1,6 @@
 # Majorproject
 
-<p><b>Tech Stack</b>
+#Tech Stack
   <ol>
 <li>Front-End: HTML, CSS, Bootstrap,JavaScript</li>
 <li>Back-End: Laravel</li>
@@ -8,7 +8,7 @@
   </ol>
 </p>
 
-<p><strong>How to Run this Project?</strong>
+#How to Run this Project?
 <ul>
   <li>Download the master branch Code</li>
   <li>Store it in a folder</li>
