@@ -10,7 +10,7 @@
 
 <p><strong>How to Run this Project?</strong>
 <ul>
-  <li>Download the Code</li>
+  <li>Download the master branch Code</li>
   <li>Store it in a folder</li>
   <li>Open the project folder and write cmd in the search bar</li>
   <li>Write code . in cmd then visual studio open with all files and folder of the project.</li>
