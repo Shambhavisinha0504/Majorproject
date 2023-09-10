@@ -22,7 +22,7 @@
   </ul>
 
   
-<b>#Some Screenshots</b>
+<b>#Some Screenshots</b><hr>
 
 
 
