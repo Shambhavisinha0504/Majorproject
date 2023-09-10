@@ -26,7 +26,8 @@
 
 
 
-![Screenshot (47)](https://github.com/Shambhavisinha0504/Majorproject/assets/127407353/22b3696a-4de4-4988-a3df-fd39f69adc24)<br>
+![Screenshot (47)](https://github.com/Shambhavisinha0504/Majorproject/assets/127407353/22b3696a-4de4-4988-a3df-fd39f69adc24)
+<br>
 ![Screenshot (51)](https://github.com/Shambhavisinha0504/Majorproject/assets/127407353/2a763775-2886-4264-94b0-429416b93809)<br>
 ![Screenshot (54)](https://github.com/Shambhavisinha0504/Majorproject/assets/127407353/0dcbe244-27a2-4eaf-832d-ec57ee830998)<br>
 ![Screenshot (55)](https://github.com/Shambhavisinha0504/Majorproject/assets/127407353/b17a1539-9919-4f21-b208-394f43472f09)<br>
