@@ -18,4 +18,4 @@
   <li>write php artisan serve to run the server</li>
   <li>Copy the url and paster it in your browser to run the Project.</li>
 </ul></p>
-
+![Screenshot (47)](https://github.com/Shambhavisinha0504/Majorproject/assets/127407353/d58981f5-2422-41cb-ae2f-ba3ccfeba83f)
