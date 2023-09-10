@@ -1,6 +1,6 @@
 # Majorproject
 
 Tech Stack
-Front-End: HTML, CSS, Bootstrap
-Back-End: Flask
-IDE: Jupyter notebook, Pycharm
+Front-End: HTML, CSS, Bootstrap,JavaScript
+Back-End: Laravel
+IDE: Visual Studio Code
