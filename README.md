@@ -1,9 +1,8 @@
 # Majorproject
 
 #Tech Stack
-  <ol>
-<li>Front-End: HTML, CSS, Bootstrap,JavaScript</li>
-<li>Back-End: Laravel</li>
+  Front-End: HTML, CSS, Bootstrap,JavaScript
+Back-End: Laravel
 <li>IDE: Visual Studio Code</li>
   </ol>
 </p>
