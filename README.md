@@ -27,15 +27,26 @@
 
 
 ![Screenshot (47)](https://github.com/Shambhavisinha0504/Majorproject/assets/127407353/22b3696a-4de4-4988-a3df-fd39f69adc24)
+<br><br>
+
+![Screenshot (51)](https://github.com/Shambhavisinha0504/Majorproject/assets/127407353/2a763775-2886-4264-94b0-429416b93809)
+<br><br>
+
+![Screenshot (54)](https://github.com/Shambhavisinha0504/Majorproject/assets/127407353/0dcbe244-27a2-4eaf-832d-ec57ee830998)
+<br><br>
+
+![Screenshot (55)](https://github.com/Shambhavisinha0504/Majorproject/assets/127407353/b17a1539-9919-4f21-b208-394f43472f09)<br><br>
+![Screenshot (56)](https://github.com/Shambhavisinha0504/Majorproject/assets/127407353/a3c376c2-9f04-4b40-873f-4e753cad7950)
 <br>
-![Screenshot (51)](https://github.com/Shambhavisinha0504/Majorproject/assets/127407353/2a763775-2886-4264-94b0-429416b93809)<br>
-![Screenshot (54)](https://github.com/Shambhavisinha0504/Majorproject/assets/127407353/0dcbe244-27a2-4eaf-832d-ec57ee830998)<br>
-![Screenshot (55)](https://github.com/Shambhavisinha0504/Majorproject/assets/127407353/b17a1539-9919-4f21-b208-394f43472f09)<br>
-![Screenshot (56)](https://github.com/Shambhavisinha0504/Majorproject/assets/127407353/a3c376c2-9f04-4b40-873f-4e753cad7950)<br>
-![Screenshot (66)](https://github.com/Shambhavisinha0504/Majorproject/assets/127407353/9aa25695-480c-43f7-9d05-62d485469b14)<br>
-![Screenshot (67)](https://github.com/Shambhavisinha0504/Majorproject/assets/127407353/feccad02-4f7f-4091-95be-3fa394847c06)<br>
-![Screenshot (69)](https://github.com/Shambhavisinha0504/Majorproject/assets/127407353/2fa20626-113d-435f-b6b0-9a2d09da1b01)<br>
-![Screenshot (72)](https://github.com/Shambhavisinha0504/Majorproject/assets/127407353/6d99c857-40ee-4fff-a9dd-37ef3500ce01)<br>
+![Screenshot (66)](https://github.com/Shambhavisinha0504/Majorproject/assets/127407353/9aa25695-480c-43f7-9d05-62d485469b14)
+<br>
+![Screenshot (67)](https://github.com/Shambhavisinha0504/Majorproject/assets/127407353/feccad02-4f7f-4091-95be-3fa394847c06)
+<br>
+![Screenshot (69)](https://github.com/Shambhavisinha0504/Majorproject/assets/127407353/2fa20626-113d-435f-b6b0-9a2d09da1b01)
+<br>
+                                                                                                                            
+![Screenshot (72)](https://github.com/Shambhavisinha0504/Majorproject/assets/127407353/6d99c857-40ee-4fff-a9dd-37ef3500ce01)
+<br>
 ![Screenshot (73)](https://github.com/Shambhavisinha0504/Majorproject/assets/127407353/cf8d42bf-e2dd-402d-a514-58b1071659fa)<br>
 ![Screenshot (75)](https://github.com/Shambhavisinha0504/Majorproject/assets/127407353/ae178f6c-f255-4100-93a4-b36447be3dec)<br>
 ![Screenshot (76)](https://github.com/Shambhavisinha0504/Majorproject/assets/127407353/9c7a42c6-c778-4260-a49e-aba102b98dce)<br>
