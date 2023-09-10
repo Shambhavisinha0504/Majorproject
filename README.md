@@ -8,9 +8,5 @@
   </ol>
 </p>
 
-<span><strong><center>Screen Shots</center></strong></span>
-
-<ul>
-  <li>Home Page</li></ul>
- 
+<p><strong>How to Run this Project?</strong></p>
 
