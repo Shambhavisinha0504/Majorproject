@@ -19,5 +19,5 @@
   <li>Copy the url and paste it in your browser to run the Project.</li>
 </ul></p>
 
-<img src="![Screenshot (47)](https://github.com/Shambhavisinha0504/Majorproject/assets/127407353/a05634a8-dc5c-4e6f-828d-a90add18d5f7)" alt=Home />
+
 </p>
